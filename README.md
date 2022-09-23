@@ -22,16 +22,23 @@ movies continuously to the user continuously until the user inputs 'n'
 
 In the above image, also observe the steps that are performed in sequence as per the sequence mentioned in the docker file
 
-- Start/run the docker container
+- Start/run the docker container (while using docker run command with user input -t -i should be used, -t for sudo terminal & -i for interactive mode)
 
-![image](https://user-images.githubusercontent.com/56335301/191914678-5904bb51-d0fb-4bda-a6a9-daab29b6fac9.png)
+![image](https://user-images.githubusercontent.com/56335301/191917614-01f58192-9efe-464e-b836-c9ccd85ce093.png)
 
-View the container on docker desktop UI as well
-![image](https://user-images.githubusercontent.com/56335301/191914417-b2d3e7b2-b990-43dc-85b3-6428faf6634b.png)
+![image](https://user-images.githubusercontent.com/56335301/191917868-7e0c60e1-2d6c-41dc-856b-8f162ae537be.png)
+
+
+View the container on docker desktop UI as well!
+
+[image](https://user-images.githubusercontent.com/56335301/191917941-b9ba948a-071a-4d7a-a451-37b8194532f5.png)
 
 - Output is nothing but the movie recommended from the app
 
-![image](https://user-images.githubusercontent.com/56335301/191915608-d6a6b99d-7e87-4e11-81fd-b48726463403.png)
+![image](https://user-images.githubusercontent.com/56335301/191917868-7e0c60e1-2d6c-41dc-856b-8f162ae537be.png)
+
+![image](https://user-images.githubusercontent.com/56335301/191918221-9b7e5555-1719-4bba-8aa9-a3338d27f21d.png)
+
 
 # Credits
 This application is created based on video tutorial by Youtube channel "Python Engineer"
