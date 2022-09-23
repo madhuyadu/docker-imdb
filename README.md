@@ -7,3 +7,6 @@ Libraries used: beautifulsoup, requests
 # Steps to run the application on Docker
 - Create main.py file which contains the script for scraping website data and recommending a random movie to the user, the script keeps recommending
 movies continuously to the user continuously until the user inputs 'n'
+- Create the docker file (attached in the repository for reference)
+- 
+
